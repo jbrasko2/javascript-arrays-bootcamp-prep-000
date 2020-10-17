@@ -10,4 +10,5 @@ var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles']
 function addElementToBeginningOfArray() {
   var first = ['1']
   first = ['foo', ...first]
+  return first
 }
