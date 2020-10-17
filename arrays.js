@@ -7,7 +7,7 @@ var ingredient6 = "garlic"
 
 var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles']
 
-function addElementToBeginningOfArray(array, element){
+function addElementToBeginningOfArray(1, 'foo'){
 var newArray = array;
   newArray.unshift(element);
   return newArray;
